@@ -6,6 +6,8 @@
 
 The Wolf sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Wolf in Stronghold Crusader.
 
+The Wolf is the most ruthless and militarily capable of the villain lords — cold, methodical, and entirely without mercy. He does not boast or threaten; he simply destroys. His measured, predatory composure makes him the most genuinely terrifying antagonist in the Crusader campaign.
+
 ## Install
 
 ```bash
